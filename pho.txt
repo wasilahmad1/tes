@@ -15,4 +15,4 @@ l
 
 
 
-making changes only in feature-branch  
+making changes only in feature-branch and then merging them with master branch 
