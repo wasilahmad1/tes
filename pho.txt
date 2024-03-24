@@ -18,4 +18,5 @@ l
 making changes only in feature-branch and then merging them with master branch 
 
 
-making changes in feature-branch after merging the previous thing with the main 
+making changes in feature-branch after merging the previous thing with the main   
+and again making changes 
