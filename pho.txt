@@ -18,3 +18,6 @@ l
 making changes only in feature-branch and then merging them with master branch 
 
 making changes in the main after using(git stash) in the feature-branch 
+
+
+making  changes in the main
