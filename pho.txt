@@ -22,5 +22,3 @@ making changes in feature-branch after merging the previous thing with the main
 and again making changes 
 
 making changes in the feature-branch
-
-making changes to use git stash save command       first
